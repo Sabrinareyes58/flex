@@ -1,0 +1,38 @@
+body {
+	background-color: beige;
+	text-align: center;
+}
+
+.container 	{
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	height: 150px;
+	width: 150px;
+}
+
+/*-----------------------------------------
+TODAS LAS PROPIEDADES ACONTINUACIÓN SON BOX
+-----------------------------------------*/
+.yellow {
+	background-color: #ffd11a;
+}
+
+.blue {
+    background-color: #4da6ff;
+}
+
+.orange {
+	background-color: #ff9933;
+}
+
+.purple {
+	background-color: #d9b3ff;
+}
+
+img {
+	width: 75%;
+
+}
